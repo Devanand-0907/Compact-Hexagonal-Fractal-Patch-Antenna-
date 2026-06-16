@@ -315,8 +315,9 @@ compact-hexagonal-fractal-antenna/
 
 ## Contributors
 Developed as an ECE final-year project by:
-*   **Devanand N** - *Project Lead & Lead simulation developer* | [GitHub Profile](https://github.com/Devanand-0907)
-*   **Team Members** - *Co-developers and Prototyping assistants*
+*   **Devanand N** - **Project Lead & Lead simulation developer** | [GitHub Profile](https://github.com/Devanand-0907)
+*   **Arun Pranav S K** - **Hardware Prototyping & Antenna Etching Specialist** | *Email:* [arunpranav.sk@gmail.com](mailto:arunpranav.sk@gmail.com)
+*   **J K Dakshata** - **Electromagnetic Solver & S-Parameter Analyst** | *Email:* [dakshata8610@gmail.com](mailto:dakshata8610@gmail.com)
 
 ---
 
