@@ -1,0 +1,16 @@
+# HFSS Simulation Results and Locks
+*.aedtresults/
+*.lock
+*.asol
+*.auto
+*.scratch
+*.desktop
+
+# Autodesk Fusion backup/lock files
+*.log
+*.tmp
+*.bak
+
+# General OS files
+.DS_Store
+Thumbs.db
